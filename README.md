@@ -2,7 +2,7 @@
 
 ![friends.txt logo](https://git.sr.ht/~rehandaphedar/friends.txt/blob/main/favicon.png)
 
-friends.txt is a standard to allow websites to link to each other.
+friends.txt is a modern "standard" similar to blogrolls/webrings.
 
 # Specification
 
@@ -20,3 +20,7 @@ friends.txt is a standard to allow websites to link to each other.
 # Websites
 
 For a list of websites with friends.txt files, see [websites.txt](https://git.sr.ht/~rehandaphedar/friends.txt/tree/main/item/websites.txt). Create a patch to add your own website.
+
+# Limitations
+
+- It assumes that each entity/person owns a unique domain.
